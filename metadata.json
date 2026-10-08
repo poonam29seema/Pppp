@@ -1,0 +1,6 @@
+{
+  "name": "SafeMeet Secure Chat",
+  "description": "Safe dating & chat app for boys and girls with female privacy shields, ₹49 verified UPI chat unlock with 24-hour review, and an admin control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

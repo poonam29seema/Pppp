@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield -->
+    <path
+        android:fillColor="#E11D48"
+        android:pathData="M54,20 C68,26 80,26 84,28 C84,52 74,74 54,88 C34,74 24,52 24,28 C28,26 40,26 54,20 Z" />
+    <!-- Inner Accent -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 C65,31 74,31 78,33 C78,51 70,69 54,80 C38,69 30,51 30,33 C34,31 43,31 54,26 Z" />
+    <!-- Heart Symbol in Center -->
+    <path
+        android:fillColor="#E11D48"
+        android:pathData="M54,46 C51,40 42,40 39,46 C35,53 44,62 54,68 C64,62 73,53 69,46 C66,40 57,40 54,46 Z" />
+</vector>
